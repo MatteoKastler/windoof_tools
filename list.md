@@ -2,3 +2,4 @@
 * DeskPins --> keep Pictures in the foreground 
 * JDownloader2 --> can download basically everything from anywhere
 * lamexp --> convert audio stuff
+* MP3Gain --> normalize mp3 files
